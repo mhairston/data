@@ -7,7 +7,8 @@
 		},
 		{
 			"text": "<p>Music is the space between the notes.<br></p>",
-			"source": "Claude Debussy"
+			"source": "Claude Debussy",
+			"tags": "music context"
 		},
 		{
 			"text": "<p>This is one of those inherent challenges of working in a technological medium – you have to balance honing your technical skills with actually getting around to writing music. I’m sure that, if I really worked at it, I could learn enough programming to allow me to realize some of my more bizarre ideas – but all that time would have to be taken away from composing.<br data-mce-bogus=\"1\"></p>",
