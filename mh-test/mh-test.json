@@ -2,7 +2,8 @@
 	"quote": [
 		{
 			"text": "<p>Any line placed on the canvas is already the fifth.</p>",
-			"source": "Hans Hofmann"
+			"source": "Hans Hofmann",
+			"tags": "art context"
 		},
 		{
 			"text": "<p>Music is the space between the notes.<br></p>",
