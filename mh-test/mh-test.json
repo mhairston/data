@@ -12,23 +12,28 @@
 		},
 		{
 			"text": "<p>This is one of those inherent challenges of working in a technological medium – you have to balance honing your technical skills with actually getting around to writing music. I’m sure that, if I really worked at it, I could learn enough programming to allow me to realize some of my more bizarre ideas – but all that time would have to be taken away from composing.<br data-mce-bogus=\"1\"></p>",
-			"source": "Kenneth Kirschner (<a href=\"http://www.tokafi.com/15questions/interview-kenneth-kirschner-2/%5D%5B14\" data-mce-href=\"http://www.tokafi.com/15questions/interview-kenneth-kirschner-2/%5D%5B14\">interview</a>)"
+			"source": "Kenneth Kirschner (<a href=\"http://www.tokafi.com/15questions/interview-kenneth-kirschner-2/%5D%5B14\" data-mce-href=\"http://www.tokafi.com/15questions/interview-kenneth-kirschner-2/%5D%5B14\">interview</a>)",
+			"tags": "music code"
 		},
 		{
 			"text": "<p>We must let go of the life we have planned, so as to accept the one that is waiting for us.<br data-mce-bogus=\"1\"></p>",
-			"source": "Joseph Campbell"
+			"source": "Joseph Campbell",
+			"tags": "philosophy flexibility"
 		},
 		{
 			"text": "<p>Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.</p>",
-			"source": "Douglas Adams, &nbsp;Dirk Gently's Holistic Detective Agency"
+			"source": "Douglas Adams, &nbsp;Dirk Gently's Holistic Detective Agency",
+			"tags": "humor"
 		},
 		{
 			"text": "<p>Better that the performer is not excited. Walking the tightrope between heaven &amp; earth is perilous and excitement disturbs our balance.</p>",
-			"source": "Robert Fripp"
+			"source": "Robert Fripp",
+			"tags": "music"
 		},
 		{
 			"text": "<p>When I need to talk to Ray about my feelings or our children, I know I have until the commercial's over. That gives me 30 seconds. And if there's a girl in the commercial, or a truck, with big wheels, or, God forbid, a monkey, forget it!<br data-mce-bogus=\"1\"></p>",
-			"source": "Debra (Patricia Heaton), Everybody Loves Raymond"
+			"source": "Debra (Patricia Heaton), Everybody Loves Raymond",
+			"tags": "humor communication"
 		}
 	]
 }
