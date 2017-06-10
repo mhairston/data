@@ -49,6 +49,21 @@
 			"tags": "craft work"
 		},
 		{
+			"text": "<p>You can't enrich the poor by impoverishing the rich.<br data-mce-bogus=\"1\"></p>",
+			"source": "Abraham Lincoln",
+			"tags": "economics"
+		},
+		{
+			"text": "<p>It is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.<br data-mce-bogus=\"1\"></p>",
+			"source": "Carl Sagan",
+			"tags": "science"
+		},
+		{
+			"text": "<p>Wagner’s music is better than it sounds.<br data-mce-bogus=\"1\"></p>",
+			"source": "Mark Twain",
+			"tags": "humor music"
+		},
+		{
 			"text": "<p>Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.</p>",
 			"source": "Douglas Adams, &nbsp;Dirk Gently's Holistic Detective Agency",
 			"tags": "humor"
@@ -60,15 +75,18 @@
 		},
 		{
 			"text": "<p>The most important thing in art is the frame. For painting: literally; for other arts: figuratively - because, without this humble appliance, you can't know where The Art stops and The Real World begins. You have to put a “box” around it because otherwise, what is that shit on the wall?</p>",
-			"source": "Frank Zappa"
+			"source": "Frank Zappa",
+			"tags": "art context constraints"
 		},
 		{
-			"text": "<p>I've had to deal with a lot of people who think that bad usability is something that the user interface fairy can fix by flying in at the end of the project and sprinkle UI-fairy dust on the application.<br data-mce-bogus=\"1\"></p>",
-			"source": "<a href=\"http://nickeandersson.blogs.com/blog/2008/06/index.html\" data-mce-href=\"http://nickeandersson.blogs.com/blog/2008/06/index.html\">Nicklas Andersson</a>"
+			"text": "<p>I've had to deal with a lot of people who think that bad usability is something that the user interface fairy can fix by flying in at the end of the project and sprinkle UI-fairy dust on the application.</p>",
+			"source": "<a href=\"http://nickeandersson.blogs.com/blog/2008/06/index.html\" data-mce-href=\"http://nickeandersson.blogs.com/blog/2008/06/index.html\">Nicklas Andersson</a>",
+			"tags": "usability design ui"
 		},
 		{
 			"text": "<p>A poet always has too many words in his vocabulary,</p><p>a painter too many colors on his palette,</p><p>a musician too many notes on his keyboard.</p>",
-			"source": "Jean Cocteau"
+			"source": "Jean Cocteau",
+			"tags": "creativity constraints"
 		}
 	]
 }
