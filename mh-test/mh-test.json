@@ -1,6 +1,15 @@
 {
 	"quote": [
 		{
+			"text": "<p>Everything government touches turns to crap.</p>",
+			"source": "Ringo Starr",
+			"tags": "politics"
+		},
+		{
+			"text": "<p>I don't mind occasionally having to reinvent a wheel; I don't even mind using someone's reinvented wheel occasionally. But it helps a lot if it is symmetric, contains no fewer than ten sides, and has the axle centered. I do tire of trapezoidal wheels with offset axles.<br></p>",
+			"source": "Joseph Newcomer"
+		},
+		{
 			"text": "<p>No good work whatever can be perfect, and the demand for perfection is always a sign of a misunderstanding of the ends of art.<br data-mce-bogus=\"1\"></p>",
 			"source": "John Ruskin (English Art Critic, 1819–1900",
 			"tags": "art criticism"
@@ -9,6 +18,10 @@
 			"text": "<p><em>Philip Henslowe:</em> Mr. Fennyman, allow me to explain about the theatre business. The natural condition is one of insurmountable obstacles on the road to imminent disaster.&nbsp;</p><p><em>Hugh Fennyman:</em> So what do we do?&nbsp;</p><p><em>Philip Henslowe:</em> Nothing. Strangely enough, it all turns out well.&nbsp;</p><p><em>Hugh Fennyman:</em> How?&nbsp;</p><p><em>Philip Henslowe:</em> I don't know. It's a mystery.</p>",
 			"source": "Shakespeare in Love",
 			"tags": "humor"
+		},
+		{
+			"text": "<p>Have you never heard such a mangling of the language with which we are speaking?<br data-mce-bogus=\"1\"></p>",
+			"source": "King Julien, Penguins of Madagascar"
 		},
 		{
 			"text": "<p>Any line placed on the canvas is already the fifth.</p>",
@@ -29,6 +42,10 @@
 			"text": "<p>We must let go of the life we have planned, so as to accept the one that is waiting for us.<br data-mce-bogus=\"1\"></p>",
 			"source": "Joseph Campbell",
 			"tags": "philosophy"
+		},
+		{
+			"text": "<p>It is important to use your hands, this is what distinguishes you from a cow or a computer operator.<br data-mce-bogus=\"1\"></p>",
+			"source": "Paul Rand"
 		},
 		{
 			"text": "<p>Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.</p>",
